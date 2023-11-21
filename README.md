@@ -6,4 +6,4 @@ To address this task, our research introduces a novel phonetic-based feature rep
 Moreover, we delve into the fusion of temporal and spectral domains, leveraging a *sine modulation* mechanism in the feature representation to modulate emphasis across temporal spans, resulting in a more robust and efficient identification, with the highest accuracy of 82.44%.
 
 ## Code
-The code is coming soon...
+The code will be released soon after paper acceptance.
