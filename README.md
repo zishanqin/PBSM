@@ -1,6 +1,7 @@
 # PHONETIC-BASED-FEATURE-REPRESENTATION-WITH-SINE-MODULATION-FOR-MANDARIN-SPEAKER-IDENTIFICATION
 
 ## Project Page
+https://zishanqin.github.io/PBSN/PBSN.html
 
 ## Project Overview
 Speaker identification is to obtain speaker identity from audio samples. 
